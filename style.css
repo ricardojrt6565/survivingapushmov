@@ -1,4 +1,9 @@
 .header { 
+    text-align: center;
+    border: solid red 5px;
+    color: blue;
+    font-family: Bauhaus93;
+    font-size: 20px;
 }
 .content{
     

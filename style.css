@@ -20,8 +20,12 @@
     text-align: center;
     position:relative;
     top:40px;
+    
+}
+
+h3{
+    display:inline-block;
 }
 .footer{
 
-    
 }

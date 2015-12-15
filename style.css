@@ -4,25 +4,24 @@
     top:15px;
     left:10px;
     padding:50px;
-     border: solid red 5px;
+     background-image: url("americanflag-proj.jpg");
+     
 }
 .header { 
     text-align: center;
-   
     color: blue;
     font-family: Bauhaus93;
     font-size: 20px;
     position:absolute;
     top:10px;
-    left:600px;
+    left:275px;
 }
 .content{
     text-align: center;
+    position:relative;
+    top:40px;
 }
 .footer{
 
     
-}
-body{
-text-align:center;
 }

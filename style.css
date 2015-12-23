@@ -1,0 +1,46 @@
+.subheader{
+    
+    position:static;
+    top:15px;
+    left:10px;
+    padding:50px;
+     background-image: url("Us flag.jpg");
+     
+}
+.header { 
+    
+    color: blue;
+    font-family: Bauhaus93;
+    font-size: 20px;
+    text-align:center;
+    
+}
+.content{
+    position:relative;
+    width:450px;
+    height:300px;
+   left:100px;
+   font-size:25px;
+   
+}
+
+h3{
+    display:inline-block;
+    
+}
+.footer{
+
+}
+*{
+    background-color:lightpink;
+}
+#eagle_image{
+    float:right;
+   height:10px;
+   width:10px;
+
+}
+#email{
+    position:relative;
+    bottom:20px;
+}
